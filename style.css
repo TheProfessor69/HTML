@@ -1,0 +1,171 @@
+.navbar-brand{
+    margin-left: 116px;
+    margin-top: 10px;
+}
+
+.nav-link a{
+    color: white;
+}
+
+#firstcard{
+    background-image: linear-gradient(#163664, #3C5B96);
+}
+
+#secondcard{
+    background-image: linear-gradient(#1D83AA, #42B0D8);
+}
+
+#thirdcard{
+    background-image: linear-gradient(#208CCC, #04314C);
+}
+
+#thelinks{
+    color: white;
+    font-family: helvetica;
+}
+
+.news{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.threegrids{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#cardid{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.media{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: helvetica;
+}
+
+.mediatext{
+    font-family: georgia;
+}
+
+.latestnews{
+    font-size: 35px;
+    text-decoration: underline;
+    color: #0499DB;
+}
+
+#imageupfooter{
+    height: 270px;
+}
+
+.linksforicon{
+    height: 25px;
+    margin-right: 10px;
+}
+
+#textupfooter{
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    font-family: helvetica;
+    display: flex;
+    margin-top: 25px;
+}
+
+.thefooter{
+    background-color: #002042;
+    color: #596B7E;
+    padding: 25px;
+}
+
+#navbartextt{
+    margin-left: 80px;
+}
+
+#navbartext{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+@media only screen and (min-width: 1000px) {
+    .navbar-brand{
+        margin-left: 525px;
+        margin-bottom: 15px;
+    }
+
+    .nav-link{
+
+    }
+
+    #navbartextt{
+        margin-top: 50px;
+    }
+
+    #navbartextt{
+        margin-top: 40px;
+        margin-left: -325px;
+    }
+
+    #thelinks{
+        height: 50px;
+    }
+
+    .nav-link{
+        margin-top: 10px;
+        font-size: 15px;
+        font-family: georgia;
+    }
+
+    .slideimages{
+        width: 2000px;
+        height: 650px;
+    }
+
+    .threegrids{
+        width: 1500px;
+        margin: 0 auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        font-family: courier;
+    }
+
+    .latestnews{
+        width: 800px;
+        margin-top: 30px;
+        margin-right: 20px;
+    }
+
+    .news{
+        width: 1500px;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .linksforicon{
+        margin-left: 180px;
+    }
+
+    #cardin{
+        margin-top: 50px;
+    }
+    
+    #imageupfooter{
+        height: 400px;
+    }
+
+    .thefooter{
+        display: flex;
+    }
+
+    .firstfooter{
+        margin-left: 180px;
+        padding-right: 380px;
+    }
+
+    .secondfooter{
+        padding-right: 380px;
+    }
+}
+
